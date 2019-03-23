@@ -1,8 +1,5 @@
 # Work-Samples
 
-Declarative transitions and animations for React Native
-
-
 ## 1.L&F  
 
 short for `Lost & Found` , It's a `native` android application that helps connect those who lost things and the people who found these things.It eliminates the whole process of going to a social media app and asking people to share your post.
