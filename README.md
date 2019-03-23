@@ -1,1 +1,36 @@
 # Work-Samples
+
+Declarative transitions and animations for React Native
+
+
+## 1.L&F  
+
+    short for `Lost & Found` , It's a `native` android application that helps connect those who lost things and the people who found these things.It eliminates the whole process of going to a social media app and asking people to share your post.
+    
+
+    ![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f1.gif)
+    ![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f2.gif)
+
+
+
+
+## 2.Srf   
+
+    It's a `native` android project i built for the Sudanese Research foundation `srf` .Unfortunately the project got shutdown to due to some managerial problems. 
+
+    ![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf1.gif)
+    ![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f2.gif)
+
+
+
+## 3.El-mejor
+
+    It means 'The Best' in spanish ,, `a cross-platform react-native` project that lets you store you fifa games results in the cloud and give you stats about it.
+
+    I open sourced it in the Snack. [Here!] (link)
+
+## yemen-mazad    
+
+
+
+
