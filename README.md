@@ -17,7 +17,7 @@ short for `Lost & Found` , It's a `native` android application that helps connec
 
 It's a `native` android project i built for the Sudanese Research foundation `srf` .Unfortunately the   project got shutdown to due to some managerial problems. 
 
-![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf1.gif)![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f2.gif)
+![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf1.gif)![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf2.gif)
 
 
 
