@@ -18,17 +18,17 @@ I open sourced it in the Snack. [Here!] (https://snack.expo.io/@maeenbadea/the-b
 
 short for `Lost & Found` , It's a `native` android application that helps connect those who lost things and the people who found these things.It eliminates the whole process of going to a social media app and asking people to share your post.
 
-
-![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f1.gif)![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/l%26f2.gif)
-
-
+<img src="gifs/l&f1.gif" alt="demo1" width="30%"/>
+<img src="gifs/l&f2.gif" alt="demo2" width="30%"/>
 
 
 ## 4.Srf   
 
 It's a `native` android project i built for the Sudanese Research foundation `srf` .Unfortunately the   project got shutdown to due to some managerial problems. 
 
-![gif1](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf1.gif)![gif2](https://github.com/MaeenBadea/Work-Samples/blob/master/gifs/srf2.gif)
+<img src="gifs/srf1.gif" alt="demo1" width="30%"/>
+<img src="gifs/srf2.gif" alt="demo2" width="30%"/>
+
 
 
 
